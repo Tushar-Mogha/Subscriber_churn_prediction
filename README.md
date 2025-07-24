@@ -10,9 +10,7 @@ subscriber-churn-prediction/
 ├── data/                     # Raw dataset
 │   └── churn_data.csv
 ├── screenshots/              # Visualizations (confusion matrix, charts)
-│   └── confusion_matrix.png
-├── README.md                 # Project documentation
-└── requirements.txt          # List of Python libraries used
+
 ```
 
 ## 🔧 Libraries Used
