@@ -4,9 +4,9 @@ This project predicts subscriber churn using machine learning models based on us
 ## 📁 Project Structure
 
 ```
-subscriber-churn-prediction/
+Subscriber_churn_prediction/
 │
-├── churn_model.ipynb         # Jupyter Notebook for analysis and modeling
+├── Subscriber_churn_prediction.ipynb         # Jupyter Notebook for analysis and modeling
 ├── data/                     # Raw dataset
 │   └── churn_data.csv
 ├── screenshots/              # Visualizations (confusion matrix, charts)
