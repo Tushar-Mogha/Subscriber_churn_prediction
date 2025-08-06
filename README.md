@@ -8,8 +8,8 @@ Subscriber_churn_prediction/
 │
 ├── Subscriber_churn_prediction.ipynb         # Jupyter Notebook for analysis and modeling
 ├── data/                     # Raw dataset
-│   └── churn_data.csv
-├── screenshots/              # Visualizations (confusion matrix, charts)
+│   └── telecom_churn.xlsx
+├── Screenshots/              # Visualizations (confusion matrix, charts)
 
 ```
 
